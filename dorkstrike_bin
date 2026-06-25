@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+PYTHONPATH="/home/bl4ck/.gemini/antigravity/scratch/dorkstrike" python3 "/home/bl4ck/.gemini/antigravity/scratch/dorkstrike/dorkstrike/__main__.py" "$@"
